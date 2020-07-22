@@ -1,0 +1,5 @@
+{
+  "env": {
+    "mongoURI": "mongodb+srv://hamza:222222@cluster0-6ilfy.mongodb.net/nest-react?retryWrites=true&w=majority"
+  }
+}
